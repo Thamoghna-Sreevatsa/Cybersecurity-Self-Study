@@ -1,11 +1,11 @@
-#Linux
+# Linux
 
-##Linux Commands learnt today
+## Linux Commands learnt today
 
 1. **pwd** - present working directory.
             Prints the location of the current directory.
 
-2. **cd directory_name ** - change directory.
+2. **cd directory_name** - change directory.
                            Opens the mentioned directory. Variants of this command are **cd -** (moves to the last opened directory) and **cd ..**(moves up by one level that is the immediate parent directory of the direcotry currently open)
 
 3. **ls** - list.
