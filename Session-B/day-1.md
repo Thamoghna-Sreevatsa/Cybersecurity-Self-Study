@@ -44,5 +44,5 @@
 ## Doubts
 
 
-Linux by itself is not an OS but is a Kernel and multiple softwares can be used with this kernel in various ways to create a wide range of OS' according to the need, thereby giving it it's infamous "Highly Customisable" tag. Is this statemtn true ?
+Linux by itself is not an OS but is a Kernel and multiple softwares can be used with this kernel in various ways to create a wide range of OS' according to the need, thereby giving it it's infamous "Highly Customisable" tag. Is this statement true ?
 
