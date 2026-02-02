@@ -13,5 +13,5 @@
 
 5. For EFI/UEFI systems:
 
-   UEFI Firmware reads boot manager data ---> Determines which UEFI app is to be launched and from where ---> UEFI app ( Example: GRUB) is then launched as defined in the boot entry of the firmware's boot manager ---> """ ( from here on solash screen and stuff is the same as MBR systems).
+   UEFI Firmware reads boot manager data ---> Determines which UEFI app is to be launched and from where ---> UEFI app ( Example: GRUB) is then launched as defined in the boot entry of the firmware's boot manager ---> """ ( from here on slash screen and stuff is the same as MBR systems).
 
