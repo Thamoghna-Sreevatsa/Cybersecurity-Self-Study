@@ -1,4 +1,4 @@
-#Linux System Startup
+# Linux System Startup
 
 
 1. When the system is powered ON, the BIOS (Basic I/O System) initializes the hardware and perfroms tests on the Main Memory(RAM). This test is called POST (Power ON Self Test). BIOS is stored on a ROM Chip on the motherboard.
